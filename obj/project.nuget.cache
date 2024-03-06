@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XpLapAQBhEgV5rmed+HANGzN41pWYS7ZvCXDrZqZqmAd0udObR7wfpVEOQ6lZgCQ1z/7IMhVLYTVMZqxJNa+ZQ==",
+  "dgSpecHash": "4/I+eBYl78GMXDCUVJ1JqKG0foUiUmlH3aq28cyCnsnqh0KUclqiBX4+1VTlb9HTxbi/zAsMxLbOJJwKvIrsrg==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\Almost_Hackers\\NomeDoProjeto\\NomeDoProjeto.csproj",
+  "projectFilePath": "C:\\Users\\CPD\\Desktop\\Almost_back\\almost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CPD\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.2\\microsoft.aspnetcore.cryptography.internal.8.0.2.nupkg.sha512",
     "C:\\Users\\CPD\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.2\\microsoft.aspnetcore.cryptography.keyderivation.8.0.2.nupkg.sha512",

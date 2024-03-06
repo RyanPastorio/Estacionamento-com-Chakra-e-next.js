@@ -890,11 +890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Almost_Hackers\\NomeDoProjeto\\NomeDoProjeto.csproj",
-      "projectName": "NomeDoProjeto",
-      "projectPath": "C:\\xampp\\htdocs\\Almost_Hackers\\NomeDoProjeto\\NomeDoProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\CPD\\Desktop\\Almost_back\\almost.csproj",
+      "projectName": "almost",
+      "projectPath": "C:\\Users\\CPD\\Desktop\\Almost_back\\almost.csproj",
       "packagesPath": "C:\\Users\\CPD\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Almost_Hackers\\NomeDoProjeto\\obj\\",
+      "outputPath": "C:\\Users\\CPD\\Desktop\\Almost_back\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CPD\\AppData\\Roaming\\NuGet\\NuGet.Config"
